@@ -14,7 +14,7 @@ To learn more about Bloom Filters: https://en.wikipedia.org/wiki/Bloom_filter
 
 In __main() numKeys is set to 100000, numHashes is set to 4, and maxFalse is set to .05. 
 
-Reading from wordlist.txt, the actual false positive rate obtained from running the bloom filter with the input from wordlist.txt 
+The actual false positive rate obtained from running the bloom filter against the input file wordlist.txt
 is tested against the theoretical false positive rate. 
 
 
